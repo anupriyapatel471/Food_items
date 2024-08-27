@@ -1,0 +1,12 @@
+.kgItems{
+  background-color: khaki;
+  color: blueviolet;
+}
+.kgSpan{
+  /* background-color: aqua; */
+  color:blue;
+  font-weight: 500;
+}
+.button{
+  margin-left: 180px;
+}
